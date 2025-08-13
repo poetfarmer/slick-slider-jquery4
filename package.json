@@ -1,0 +1,46 @@
+{
+  "name": "slick-carousel-jquery4",
+  "version": "4.0.0",
+  "description": "A patched version of Slick Carousel for jQuery 4 compatibility",
+  "main": "slick/slick.js",
+  "keywords": [
+    "carousel",
+    "slick",
+    "responsive",
+    "js",
+    "slider"
+  ],
+  "author": "Ken Wheeler <ken_wheeler@me.com>",
+  "contributors": [
+    {
+      "name": "ken wheeler",
+      "email": "ken_wheeler@me.com",
+      "url": "http://kenwheeler.github.io/"
+    },
+    {
+      "name": "simon goellner",
+      "email": "simey.me@gmail.com",
+      "url": "http://simey.me"
+    },
+    {
+      "name": "ahmad el-alfy",
+      "email": "ahmadalfy@gmail.com",
+      "url": "http://www.alfy.me"
+    },
+    {
+      "name": "leggomuhgreggo",
+      "email": "gwestneat@gmail.com"
+    },
+    {
+      "name": "ashley mcknight",
+      "email": "ash@sharpteef.net"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenwheeler/slick/issues"
+  },
+  "peerDependencies": {
+    "jquery": ">=4.0"
+  }
+}
