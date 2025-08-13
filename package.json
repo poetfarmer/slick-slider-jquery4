@@ -3,6 +3,10 @@
   "version": "4.0.0",
   "description": "A patched version of Slick Carousel for jQuery 4 compatibility",
   "main": "slick/slick.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poetfarmer/slick-slider-jquery4.git"
+  },
   "keywords": [
     "carousel",
     "slick",
@@ -34,13 +38,17 @@
     {
       "name": "ashley mcknight",
       "email": "ash@sharpteef.net"
+    },
+    {
+      "name": "Chris",
+      "email": "chris@poetfarmer.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenwheeler/slick/issues"
+    "url": "https://github.com/poetfarmer/slick-slider-jquery4/issues"
   },
   "peerDependencies": {
-    "jquery": ">=4.0"
+    "jquery": ">=4.0.0"
   }
 }
