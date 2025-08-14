@@ -1,4 +1,7 @@
 slick (jQuery 4 compatible)
+
+Cloned from slick-carousel-latest 1.9.0
+
 npm install slick-carousel-jquery4
 -------
 
