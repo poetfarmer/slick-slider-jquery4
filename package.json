@@ -1,6 +1,6 @@
 {
   "name": "slick-carousel-jquery4",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A patched version of Slick Carousel for jQuery 4 compatibility",
   "main": "slick/slick.js",
   "repository": {
